@@ -59,3 +59,4 @@ Projects will be available here as they are completed.
 
 - **GitHub:** [SanchezM2103](https://github.com/SanchezM2103)
 - **Email:** [sanchezmaldonado2103@gmail.com](mailto:sanchezmaldonado2103@gmail.com)
+-  **LinkedIn:** [https://www.linkedin.com/in/davidsanchez21/](https://www.linkedin.com/in/davidsanchez21/)
