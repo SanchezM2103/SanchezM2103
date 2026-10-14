@@ -1,14 +1,13 @@
-[🇬🇧 English](README.md) | [🇪🇸 Español](README.es.md)
 
 # Hi, I'm David! 👋
 
 ### Backend Developer | Java & Spring Boot
 
-I'm a backend developer with a degree in Telecommunications Network Engineering, specializing in **Java and Spring Boot**.
+I'm a backend developer with a degree in **Telecommunications Network Engineering**, specializing in Java and Spring Boot.
 
 I have experience developing REST APIs, working with relational databases, and building backend services in microservices-based environments.
 
-I enjoy designing maintainable solutions, solving real-world problems, and continuously improving my software development skills.
+I'm interested in designing maintainable solutions, solving real-world problems, and continuously improving my software development skills.
 
 ## 🛠️ Technologies & Tools
 
@@ -16,7 +15,7 @@ I enjoy designing maintainable solutions, solving real-world problems, and conti
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 **Databases**
 
@@ -37,22 +36,26 @@ I enjoy designing maintainable solutions, solving real-world problems, and conti
 
 ## 🚀 Featured Projects
 
-I'm currently working on backend projects focused on solving real-world problems, applying clean architecture principles, testing strategies, and good development practices.
+I'm currently working on backend projects focused on solving real-world problems, with an emphasis on software architecture, testing, and maintainability.
 
 Projects will be available here as they are completed.
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchezM2103&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="David's GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezM2103&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SanchezM2103&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="David's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezM2103&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
 ## 📫 Connect with Me
 
 - **GitHub:** [SanchezM2103](https://github.com/SanchezM2103)
 - **Email:** [sanchezmaldonado2103@gmail.com](mailto:sanchezmaldonado2103@gmail.com)
-
----
-
-*Always learning, building, and improving.*
