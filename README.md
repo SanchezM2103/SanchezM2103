@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola, soy David! 👋
 
-<!--
-**SanchezM2103/SanchezM2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Java & Spring Boot
 
-Here are some ideas to get you started:
+Soy graduado en Ingeniería en Redes de Telecomunicación y desarrollador backend especializado en Java y Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa construir APIs REST y servicios bien estructurados, mantenibles y orientados a resolver problemas reales.
+
+### 🛠️ Tecnologías
+
+**Backend:** Java · Spring Boot · Spring Security · REST APIs
+
+**Bases de datos:** SQL · PostgreSQL · MySQL
+
+**Herramientas:** Git · Maven · Docker · Postman
+
+**Testing:** JUnit · Mockito
+
+### 🚀 Proyectos destacados
+
+*Próximamente: proyectos backend con documentación, arquitectura y pruebas de integración.*
+
+### 📫 Contacto
+
+- **LinkedIn:** https://www.linkedin.com/in/davidsanchez21
+- **GitHub:** [SanchezM2103](https://github.com/SanchezM2103)
